@@ -7,7 +7,7 @@ obj = Solution()
 class StringTests(unittest.TestCase):
 
     def test_1(self):
-        """'(', ')', '{', '}', '[', ']' should return false"""
+        """'(', ')', '{', '}', '[', ']' should return False"""
         self.assertEqual(obj.isValid('('), False)
         self.assertEqual(obj.isValid(')'), False)
         self.assertEqual(obj.isValid('{'), False)
@@ -16,12 +16,12 @@ class StringTests(unittest.TestCase):
         self.assertEqual(obj.isValid(']'), False)
 
     def test_2(self):
-        """'(]', '([)]' should return false"""
+        """'(]', '([)]' should return False"""
         self.assertEqual(obj.isValid('(]'), False)
         self.assertEqual(obj.isValid('([)]'), False)
 
     def test_3(self):
-        """'()', '()[]{}', '{[]}' should return true"""
+        """'()', '()[]{}', '{[]}' should return True"""
         self.assertEqual(obj.isValid('()'), True)
         self.assertEqual(obj.isValid('()[]{}'), True)
         self.assertEqual(obj.isValid('{[]}'), True)
