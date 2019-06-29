@@ -10,7 +10,7 @@ class ListNode(object):
         self.next = None
 
 
-class IntervalTests(unittest.TestCase):
+class LinkedListTests(unittest.TestCase):
 
     def test_1(self):
         """reverses the list"""
