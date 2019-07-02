@@ -1,2 +1,2 @@
-class Solution(object):
+class Solution:
     def exist(self, board, word):

@@ -1,2 +1,2 @@
-class Solution(object):
+class Solution:
     def lengthOfLIS(self, nums):
