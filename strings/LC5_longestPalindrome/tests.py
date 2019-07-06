@@ -1,5 +1,5 @@
 import unittest
-from index import Solution
+from main import Solution
 
 obj = Solution()
 

@@ -1,5 +1,5 @@
 import unittest
-from index import Solution, ListNode
+from main import Solution, ListNode
 
 obj = Solution()
 
