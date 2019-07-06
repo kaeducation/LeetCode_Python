@@ -1,2 +1,6 @@
+.DS_STORE
+*.pyc
+.vscode
+
 __pycache__/
 scratch.py
