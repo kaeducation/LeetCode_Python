@@ -8,8 +8,8 @@ class StringTests(unittest.TestCase):
 
     def test_1(self):
         """['eat', 'tea', 'tan', 'ate', 'nat', 'bat'] returns 3 groups of Anagrams"""
-        res = list(obj.groupAnagrams(
-            ["eat", "tea", "tan", "ate", "nat", "bat"]))
+        res = obj.groupAnagrams(
+            ["eat", "tea", "tan", "ate", "nat", "bat"])
         res.sort(reverse=True, key=len)
 
         for i in range(len(res)):
