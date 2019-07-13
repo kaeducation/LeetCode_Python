@@ -22,6 +22,10 @@ class StringTests(unittest.TestCase):
         """isAnagram('aacc', 'ccac') returns False"""
         self.assertEqual(obj.isAnagram('aacc', 'ccac'), False)
 
+    def test_5(self):
+        """isAnagram('ab', 'a') returns False"""
+        self.assertEqual(obj.isAnagram('ab', 'a'), False)
+
 
 if __name__ == '__main__':
     unittest.main()
