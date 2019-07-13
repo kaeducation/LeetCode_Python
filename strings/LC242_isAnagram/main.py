@@ -1,2 +1,2 @@
-class Solution(object):
+class Solution:
     def isAnagram(self, s, t):
