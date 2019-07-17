@@ -6,11 +6,11 @@ class DesignTests(unittest.TestCase):
 
     def test_1(self):
         """Shuffle works"""
-        obj = Solution([num for num in range(0, 100)])
-        final = None
-        for i in range(0, 100):
-            final = obj.shuffle()
-        self.assertTrue(1 != final[1])
+        deck_of_cards = Solution([num for num in range(52)])
+        deck_of_cards2 = Solution([num for num in range(52)])
+        result_shuffle = deck_of_cards.shuffle()
+        result_shuffle2 = deck_of_cards2.shuffle()
+        self.assertEqual(result_shuffle == result_shuffle2, False)
 
     def test_2(self):
         """Reset works"""
