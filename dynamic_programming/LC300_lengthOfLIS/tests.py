@@ -15,6 +15,10 @@ class DPTests(unittest.TestCase):
         self.assertEqual(obj.lengthOfLIS([0]), 1)
 
     def test_3(self):
+        """lengthOfLIS([-2, -1]) returns 2"""
+        self.assertEqual(obj.lengthOfLIS([-2, -1]), 2)
+
+    def test_4(self):
         """lengthOfLIS([]) returns 0"""
         self.assertEqual(obj.lengthOfLIS([]), 0)
 
