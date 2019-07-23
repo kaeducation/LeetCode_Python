@@ -21,13 +21,11 @@ class LinkedListTests(unittest.TestCase):
         a_node = ListNode("A")
         b_node = ListNode("B")
         c_node = ListNode("C")
+        d_node = ListNode("D")
         a_node.next = b_node
         b_node.next = c_node
-        c_node.next = a_node
-
-        self.assertEqual(obj.hasCycle(a_node), True)
-
-        c_node.next = b_node
+        c_node.next = d_node
+        d_node.next = b_node
 
         self.assertEqual(obj.hasCycle(a_node), True)
 
