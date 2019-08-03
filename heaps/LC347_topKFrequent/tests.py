@@ -4,7 +4,7 @@ from main import Solution
 obj = Solution()
 
 
-class ArrayTests(unittest.TestCase):
+class HeapTests(unittest.TestCase):
 
     def test_1(self):
         """topKFrequent([1,1,1,2,2,3], 2) returns [1,2]"""
