@@ -9,7 +9,7 @@ class PracticeTests(unittest.TestCase):
     def test_1(self):
         """returns False correctly"""
         self.assertEqual(obj.hasCycle(2, [[0, 1]]), False)
-        self.assertEqual(obj.hasCycle(3, [[0, 1], [1, 2]]), False)
+        self.assertEqual(obj.hasCycle(3, [[1, 0], [1, 2]]), False)
 
     def test_2(self):
         """returns True correctly"""
