@@ -4,7 +4,7 @@ from main import Solution
 obj = Solution()
 
 
-class IntervalTests(unittest.TestCase):
+class GraphTests(unittest.TestCase):
 
     def test_1(self):
         """Returns True correctly"""
