@@ -12,7 +12,7 @@ class TreeTests(unittest.TestCase):
 
     def test_2(self):
         """Returns False correctly"""
-        self.assertEqual(obj.isValidSerialization("9,#,92,#"), False)
+        self.assertEqual(obj.isValidSerialization("#,#,3,5,#"), False)
 
 
 if __name__ == '__main__':
