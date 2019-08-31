@@ -7,3 +7,5 @@ class RandomizedSet:
     def remove(self, val):
 
     def getRandom(self):
+
+    def swap(self, arr, i, j):
