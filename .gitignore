@@ -12,6 +12,7 @@ Thumbs.db
 
 # Python
 __pycache__/
+*.pyc
 
 # Other
 scratch.py
