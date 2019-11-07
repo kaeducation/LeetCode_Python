@@ -1,8 +1,8 @@
 # Python & LeetCode: The Ultimate Interview Bootcamp
 
-This is the template code for the [Python & LeetCode: The Ultimate Interview Bootcamp](https://kaeducation.thinkific.com/courses/ultimate-python-leetcode-interview-bootcamp).
+This is the template code for [Python & LeetCode: The Ultimate Interview Bootcamp](https://kaeducation.thinkific.com/courses/ultimate-python-leetcode-interview-bootcamp).
 
-## Pre-requisites
+## Prerequisites
 * [Python](https://www.python.org)
 
 ## Example
