@@ -1,9 +1,9 @@
-# Python & LeetCode: The Interview Bootcamp Series
+# Python & LeetCode: The Interview Bootcamp
 
 This is the course code for:
-* Python & LeetCode: The **Express** Interview Bootcamp *(Coming Soon!)*
-* Python & LeetCode: The **Complete** Interview Bootcamp *(Coming Soon!)*
-* [Python & LeetCode: The **Deluxe** Interview Bootcamp](https://kaeducation.thinkific.com/courses/ultimate-python-leetcode-interview-bootcamp)
+* 🥇 [Python & LeetCode: The **Deluxe** Interview Bootcamp](https://kaeducation.com/lc-py.html#course-matrix-section)
+* 🥈 [Python & LeetCode: The **Complete** Interview Bootcamp](https://kaeducation.com/lc-py.html#course-matrix-section)
+* 🥉 Python & LeetCode: The **Express** Interview Bootcamp *(Coming Soon!)*
 
 ## Prerequisites
 * [Python](https://www.python.org)
