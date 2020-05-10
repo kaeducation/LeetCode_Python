@@ -1,9 +1,11 @@
 # Python & LeetCode: The Interview Bootcamp
 
-This is the course code for:
-* 🥇 [Python & LeetCode: The **Deluxe** Interview Bootcamp](https://kaeducation.com/lc-py.html)
-* 🥈 [Python & LeetCode: The **Complete** Interview Bootcamp](https://kaeducation.com/lc-py.html)
+This is the shared course code repository for:
+* 🥇 Python & LeetCode: The **Deluxe** Interview Bootcamp
+* 🥈 Python & LeetCode: The **Complete** Interview Bootcamp
 * 🥉 Python & LeetCode: The **Express** Interview Bootcamp *(Coming Soon!)*
+
+Website: https://kaeducation.com/lc-py.html
 
 ## Prerequisites
 * [Python](https://www.python.org)
