@@ -2,11 +2,6 @@
 
 <img src="https://static.kaeducation.com/lc-py.jpg" width="400">
 
-This is the shared course code repository for:
-* 🥇 Python & LeetCode: The **Deluxe** Interview Bootcamp
-* 🥈 Python & LeetCode: The **Complete** Interview Bootcamp
-* 🥉 Python & LeetCode: The **Express** Interview Bootcamp *(Coming Soon!)*
-
 Website: https://kaeducation.com/lc-py.html
 
 ## Prerequisites
